@@ -3,7 +3,7 @@ package com.amazon.test;
 import com.amazon.pages.pagecomponent.GlobalMenus;
 import org.testng.annotations.Test;
 
-public class AddingProductToTheCartTest extends BaseTest{
+public class PrintProductDetailsTest extends BaseTest{
 
     @Test
     public void addingProductToTheCart() {
